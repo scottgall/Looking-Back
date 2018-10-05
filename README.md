@@ -32,7 +32,7 @@ module.exports = {
 ​
 ## Deployment:
 ​
-https://vast-cove-88830.herokuapp.com/
+https://lookingback.herokuapp.com/
 ​
 ### NPM Dependencies:
 - "bcryptjs"
