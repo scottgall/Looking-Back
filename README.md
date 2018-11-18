@@ -1,8 +1,8 @@
-# lookingBack
+# Looking Back
 ​
 A way to memorialize your loved ones. Created for the purpose of preserving your lasting memories with those that have passed on. lookingBack gives users a way to create Tribute pages for those that are no longer with us. It gives family members and friends a way to reminisce about the memories created over a lifetime.
 ​
-## Local setup:
+## Local setup
 
 1. Clone repo.
 
@@ -29,7 +29,7 @@ A way to memorialize your loved ones. Created for the purpose of preserving your
 4. `npm run dev`
 ​​
 ​
-## Technologies used:
+## Technologies used
 - Node.js
 - React/Redux
 - Express
