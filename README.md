@@ -1,12 +1,10 @@
 # Looking Back
-​
-A social media app for memorializing and connecting over lost loved ones.  Registered users can create and contribute to public tribute pages.
+​A social media app for memorializing and connecting over lost loved ones.  Registered users can create and contribute to public tribute pages.
 ​
 ## Local setup
-
 1. Clone repo.
 
-2. Create "keys_dev.js" file in config folder with the following:
+2. Create "keys_dev.js" file in config folder and add:
 ​
   ```
   module.exports = {
@@ -26,7 +24,7 @@ A social media app for memorializing and connecting over lost loved ones.  Regis
   cd ..
   ```
 
-4. `npm run dev`
+4. Start app by running ```npm run dev``` from root directory.
 ​​
 ​
 ## Technologies used
