@@ -1,4 +1,4 @@
-# Looking Back
+# [Looking Back](https://looking-back.herokuapp.com/)
 ​A social media app for memorializing and connecting over lost loved ones.  Registered users can create and contribute to public tribute pages.
 ​
 ## Local setup
